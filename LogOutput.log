@@ -1,0 +1,268 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - Lethal Company (10/12/2023 14:24:11)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.1.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 34 plugins to load
+[Info   :   BepInEx] Loading [BetterTeleporter 1.0.0]
+[Info   :BetterTeleporter] Plugin BetterTeleporter is loaded!
+[Info   :   BepInEx] Loading [ShipLobby 1.0.2]
+[Info   :   BepInEx] Loading [More Ship Upgrades 2.5.0]
+[Info   :More Ship Upgrades] More Ship Upgrades has been patched
+[Info   :   BepInEx] Loading [ItemQuickSwitchMod 1.1.0]
+[Info   :ItemQuickSwitchMod] ItemQuickSwitchMod is creating binds!
+[Info   :ItemQuickSwitchMod] Plugin ItemQuickSwitchMod is loaded!
+[Info   :   BepInEx] Loading [LethalLib 0.6.2]
+[Info   : LethalLib] LethalLib loaded!!
+[Info   :   BepInEx] Loading [LethalThings 0.7.0]
+[Info   :LethalThings] Loaded asset bundle
+[Info   :LethalThings] Registering shop item RocketLauncher with price 500
+[Info   :LethalThings] Registering shop item ToyHammer with price 80
+[Info   :LethalThings] Registering shop item HackingTool with price 190
+[Info   :LethalThings] Custom content loaded!
+[Info   :LethalThings] LethalThings loaded guh
+[Info   :   BepInEx] Loading [FasterItemDropship 1.2.0]
+[Info   :FasterItemDropship] BindingConfigs
+[Info   :FasterItemDropship] FasterItemDropship loaded
+[Info   :   BepInEx] Loading [ReservedItemSlotCore 1.4.4]
+[Info   :ReservedItemSlotCore] BindingConfigs
+[Info   :ReservedItemSlotCore] ReservedItemSlotCore loaded
+[Info   :   BepInEx] Loading [ReservedFlashlightSlot 1.4.5]
+[Info   :ReservedFlashlightSlot] BindingConfigs
+[Info   :ReservedFlashlightSlot] ReservedFlashlightSlot loaded
+[Info   :   BepInEx] Loading [ReservedWalkieSlot 1.4.6]
+[Info   :ReservedWalkieSlot] BindingConfigs
+[Info   :ReservedWalkieSlot] ReservedWalkieSlot loaded
+[Info   :   BepInEx] Loading [HDLethalCompany-Sligili 1.5.3]
+[Info   :HDLethalCompany-Sligili] HDLethalCompany loaded
+[Info   :   BepInEx] Loading [TZP Reworked: Healing 1.1.0.0]
+[Info   :Hotoni.TZPHEAL] TZP HEAL loaded
+[Info   :   BepInEx] Loading [Remove Camera Filter 1.0.0]
+[Info   :   BepInEx] Loading [FastSwitchPlayerViewInRadar 1.2.1]
+[Info   :FastSwitchPlayerViewInRadar] krystall9.FastSwitchPlayerViewInRadar plugin has been loaded!
+[Info   :   BepInEx] Loading [LC_API 2.1.1]
+[Warning:    LC_API] 
+.____    _________           _____  __________ .___  
+|    |   \_   ___ \         /  _  \ \______   \|   | 
+|    |   /    \  \/        /  /_\  \ |     ___/|   | 
+|    |___\     \____      /    |    \|    |    |   | 
+|_______ \\______  /______\____|__  /|____|    |___| 
+        \/       \//_____/        \/                 
+                                                     
+[Info   :    LC_API] LC_API Starting up..
+[Info   :   BepInEx] Loading [Minimap 1.0.4]
+[Info   :LethalCompanyMinimap] Minimap 1.0.4 loaded!
+[Info   :LethalCompanyMinimap] MinimapGUI loaded.
+[Info   :   BepInEx] Loading [Lethally Wide 1.0.0]
+[Info   :   BepInEx] Loading [Elads HUD 1.1.0]
+[Info   : Elads HUD] Plugin Elad's HUD is loaded!
+[Info   :   BepInEx] Loading [DeGhostify 1.0.0]
+[Info   :me.poka.deghostify]  »»»» DeGhostify has been loaded! «« 
+ »» created by 'p.o.k.a' on discord, '@p.o.k.a' on youtube :) «« 
+[Info   :   BepInEx] Loading [MoreCompany 1.7.1]
+[Info   :MoreCompany] Loading MoreCompany...
+[Info   :MoreCompany] Checking: C:\Users\admin\Downloads\Game\Lethal.Company.v45.1_LinkNeverDie.Com\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Loaded MoreCompany FULLY
+[Info   :MoreCompany] Read settings and cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle
+[Info   :MoreCompany] Loading USER COSMETICS...
+[Info   :   BepInEx] Loading [Hide Chat 1.0.0]
+[Info   :   BepInEx] Loading [Enhancer 0.1.6]
+[Info   :  Enhancer] Enabled, patching now
+[Info   :  Enhancer] Doing protection patches
+[Info   :   BepInEx] Loading [MoreEmotes-Sligili 1.1.1]
+[Info   :MoreEmotes-Sligili] MoreEmotes loaded
+[Info   :   BepInEx] Loading [MoreItems 1.0.0]
+[Info   : MoreItems] Plugin MoreItems is loaded!
+[Info   :   BepInEx] Loading [Health Station mod 1.0.0.1]
+[Info   :Octolar.Healthstation] Octolar HealthStation mod is now active
+[Info   :   BepInEx] Loading [Helmet_Cameras 2.1.3]
+[Info   :Helmet_Cameras] Plugin Helmet_Cameras is loaded with version 2.1.3!
+[Info   :Helmet_Cameras] --------Helmet camera patch done.---------
+[Info   :   BepInEx] Loading [Skinwalker Mod 1.0.8]
+[Info   :RugbugRedfern.SkinwalkerMod] SKINWALKER MOD STARTING UP 1.0.8
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BaboonHawk VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Bracken VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BunkerSpider VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Centipede VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_CoilHead VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_EyelessDog VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_ForestGiant VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GhostGirl VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GiantWorm VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_HoardingBug VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Hygrodere VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Jester VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Masked VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Nutcracker VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_SporeLizard VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Thumper VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceLineFrequency VALUE LOADED FROM CONFIG: [1]
+[Info   :RugbugRedfern.SkinwalkerMod] Skinwalker Mod Object Initialized
+[Info   :   BepInEx] Loading [Scaling Start Credits 1.0.0]
+[Info   :sunnobunno.scalingstartcredits] sunnobunno.scalingstartcredits is loading.
+[Info   :sunnobunno.scalingstartcredits] sunnobunno.scalingstartcredits is loaded.
+[Info   :   BepInEx] Loading [Yippee tbh mod 1.2.2]
+[Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loading.
+[Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loaded. Yippee!!!
+[Info   :   BepInEx] Loading [Radio No Power 1.0.0.0]
+[Info   :SYXZ.RadioNoPower] Radio No Power has awoken
+[Info   :   BepInEx] Loading [Late Company 1.0.4]
+[Info   :Late Company] Late Company loaded!
+[Info   :   BepInEx] Loading [More Suits 1.3.2]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Info   :   BepInEx] Loading [Too Many Suits 1.0.3]
+[Info   :Too Many Suits] TooManySuits Mod Loaded.
+[Info   :   BepInEx] Loading [Mimics 1.1.2]
+[Info   :    Mimics] Plugin Mimics is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Message:    LC_API] BundleAPI will now load all asset bundles...
+[Message:    LC_API] BundleAPI got no assets to load from legacy directory
+[Message:    LC_API] BundleAPI got 10 AssetBundles to load!
+[Error  :    LC_API] Failed to load an assetbundle! Path: C:\Users\admin\Downloads\Game\Lethal.Company.v45.1_LinkNeverDie.Com\BepInEx\plugins\EladsHUD.pdb
+[Error  :    LC_API] Failed to load an assetbundle! Path: C:\Users\admin\Downloads\Game\Lethal.Company.v45.1_LinkNeverDie.Com\BepInEx\plugins\suitselect
+[Error  :    LC_API] Failed to load an assetbundle! Path: C:\Users\admin\Downloads\Game\Lethal.Company.v45.1_LinkNeverDie.Com\BepInEx\plugins\yippeesound
+[Error  :    LC_API] Failed to load an assetbundle! Path: C:\Users\admin\Downloads\Game\Lethal.Company.v45.1_LinkNeverDie.Com\BepInEx\plugins\HDLethalCompany\hdlethalcompany
+[Error  :    LC_API] Failed to load an assetbundle! Path: C:\Users\admin\Downloads\Game\Lethal.Company.v45.1_LinkNeverDie.Com\BepInEx\plugins\LethalLib\LethalLib.pdb
+[Error  :    LC_API] Failed to load an assetbundle! Path: C:\Users\admin\Downloads\Game\Lethal.Company.v45.1_LinkNeverDie.Com\BepInEx\plugins\LethalThings\lethalthings
+[Error  :    LC_API] Failed to load an assetbundle! Path: C:\Users\admin\Downloads\Game\Lethal.Company.v45.1_LinkNeverDie.Com\BepInEx\plugins\LethalThings\LethalThings.pdb
+[Error  :    LC_API] Failed to load an assetbundle! Path: C:\Users\admin\Downloads\Game\Lethal.Company.v45.1_LinkNeverDie.Com\BepInEx\plugins\MoreEmotes\animationsbundle
+[Error  :    LC_API] Failed to load an assetbundle! Path: C:\Users\admin\Downloads\Game\Lethal.Company.v45.1_LinkNeverDie.Com\BepInEx\plugins\MoreEmotes\animatorbundle
+[Error  :    LC_API] Failed to load an assetbundle! Path: C:\Users\admin\Downloads\Game\Lethal.Company.v45.1_LinkNeverDie.Com\BepInEx\plugins\MoreShipUpgrades\shipupgrades
+[Message:    LC_API] BundleAPI finished loading all assets.
+[Message:    LC_API] BundleAPI finished loading all assets.
+[Info   :    LC_API] LC_API Started!
+[Message:    LC_API] A plugin has set your game to only allow you to play with other people who have mods!
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/admin/Downloads/Game/Lethal.Company.v45.1_LinkNeverDie.Com/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/admin/Downloads/Game/Lethal.Company.v45.1_LinkNeverDie.Com/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Message:    LC_API] server pre-setup success
+[Info   : LethalLib] Adding 5 items to terminal
+[Info   : LethalLib] MoreShipUpgrades registered item: Portable Tele
+[Info   : LethalLib] MoreShipUpgrades registered item: Advanced Portable Tele
+[Info   : LethalLib] LethalThings registered item: Rocket Launcher
+[Info   : LethalLib] LethalThings registered item: Toy Hammer
+[Info   : LethalLib] LethalThings registered item: Hacking Tool
+[Info   : MoreItems] Maximum amount of items that can be saved set to 999.
+[Info   : LethalLib] Added Boomba to ExperimentationLevel with SpawnType [Default]
+[Info   : LethalLib] Added Boomba to AssuranceLevel with SpawnType [Default]
+[Info   : LethalLib] Added Boomba to VowLevel with SpawnType [Default]
+[Info   : LethalLib] Added Boomba to MarchLevel with SpawnType [Default]
+[Info   : LethalLib] Added Boomba to RendLevel with SpawnType [Default]
+[Info   : LethalLib] Added Boomba to DineLevel with SpawnType [Default]
+[Info   : LethalLib] Added Boomba to OffenseLevel with SpawnType [Default]
+[Info   : LethalLib] Added Boomba to TitanLevel with SpawnType [Default]
+[Info   : LethalLib] LethalThings registered item: Arson Plush
+[Info   : LethalLib] LethalThings registered item: Cookie Fumo
+[Info   : LethalLib] LethalThings registered item: Toimari Plush
+[Info   : LethalLib] LethalThings registered item: Hämis Plush
+[Info   : LethalLib] LethalThings registered item: Dirty Arson Plush
+[Info   : LethalLib] LethalThings registered item: Maxwell
+[Info   : LethalLib] LethalThings registered item: Glizzy
+[Info   : LethalLib] MoreShipUpgrades registered item: Portable Tele
+[Info   : LethalLib] MoreShipUpgrades registered item: Advanced Portable Tele
+[Info   : LethalLib] LethalThings registered item: Rocket Launcher
+[Info   : LethalLib] LethalThings registered item: Toy Hammer
+[Info   : LethalLib] LethalThings registered item: Hacking Tool
+[Info   : LethalLib] Adding 3 unlockables to unlockables list
+[Info   : LethalLib] Added TeleporterTrap to ExperimentationLevel
+[Info   : LethalLib] Added TeleporterTrap to AssuranceLevel
+[Info   : LethalLib] Added TeleporterTrap to VowLevel
+[Info   : LethalLib] Added TeleporterTrap to MarchLevel
+[Info   : LethalLib] Added TeleporterTrap to RendLevel
+[Info   : LethalLib] Added TeleporterTrap to DineLevel
+[Info   : LethalLib] Added TeleporterTrap to OffenseLevel
+[Info   : LethalLib] Added TeleporterTrap to TitanLevel
+[Info   :RugbugRedfern.SkinwalkerMod] HOST SENDING CONFIG TO CLIENTS
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager Awake
+[Info   :Lethally Wide Mod] Using auto detected dimensions. 1920/1080
+[Info   :Lethally Wide Mod] Using game aspect 1.777778
+[Info   :Lethally Wide Mod] No ultrawide resolution in config, or game is not running on an ultrawide monitor. Exiting.
+[Info   :Lethally Wide Mod] Using auto detected dimensions. 1920/1080
+[Info   :Lethally Wide Mod] Using game aspect 1.777778
+[Info   :Lethally Wide Mod] No ultrawide resolution in config, or game is not running on an ultrawide monitor. Exiting.
+[Info   :Lethally Wide Mod] Using auto detected dimensions. 1920/1080
+[Info   :Lethally Wide Mod] Using game aspect 1.777778
+[Info   :Lethally Wide Mod] No ultrawide resolution in config, or game is not running on an ultrawide monitor. Exiting.
+[Info   :Lethally Wide Mod] Using auto detected dimensions. 1920/1080
+[Info   :Lethally Wide Mod] Using game aspect 1.777778
+[Info   :Lethally Wide Mod] No ultrawide resolution in config, or game is not running on an ultrawide monitor. Exiting.
+[Info   : LethalLib] Adding 3 items to terminal
+[Info   : LethalLib] LethalThings registered item: Small Rug
+[Info   : LethalLib] LethalThings registered item: Large Rug
+[Info   : LethalLib] LethalThings registered item: Fatalities Sign
+[Info   : LethalLib] Added custom dungeons to levels
+[Info   :  Enhancer] StartOfRound Start
+[Info   :  Enhancer] TimeOfDay SetBuyingRateForDay
+[Info   :ReservedItemSlotCore] Adding 3 Reserved Item slots to the inventory HUD. Previous inventory HUD size: 4
+[Info   :ReservedItemSlotCore] Adding Reserved Item slot for item types [Pro-flashlight]. Inventory index: 4
+[Info   :ReservedItemSlotCore] Adding Reserved Item slot for item types [Walkie-talkie]. Inventory index: 5
+[Info   :ReservedItemSlotCore] Finished adding 2 Reserved Item slots in the inventory HUD.
+[Info   :  Enhancer] HangarShipDoor Start
+[Info   :  Enhancer] TimeOfDay Start
+[Info   :Lethally Wide Mod] Using auto detected dimensions. 1920/1080
+[Info   :Lethally Wide Mod] Using game aspect 1.777778
+[Info   :Lethally Wide Mod] No ultrawide resolution in config, or game is not running on an ultrawide monitor. Exiting.
+[Info   :Lethally Wide Mod] Using auto detected dimensions. 1920/1080
+[Info   :Lethally Wide Mod] Using game aspect 1.777778
+[Info   :Lethally Wide Mod] No ultrawide resolution in config, or game is not running on an ultrawide monitor. Exiting.
+[Info   :Lethally Wide Mod] Using auto detected dimensions. 1920/1080
+[Info   :Lethally Wide Mod] Using game aspect 1.777778
+[Info   :Lethally Wide Mod] No ultrawide resolution in config, or game is not running on an ultrawide monitor. Exiting.
+[Info   :Lethally Wide Mod] Using auto detected dimensions. 1920/1080
+[Info   :Lethally Wide Mod] Using game aspect 1.777778
+[Info   :Lethally Wide Mod] No ultrawide resolution in config, or game is not running on an ultrawide monitor. Exiting.
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/admin/Downloads/Game/Lethal.Company.v45.1_LinkNeverDie.Com/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Warning:    LC_API] Asking all other players for their mod list..
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/admin/Downloads/Game/Lethal.Company.v45.1_LinkNeverDie.Com/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :ReservedItemSlotCore] SettingFocusReservedHotbar to: True
+[Info   :ReservedItemSlotCore] Sending hotbar swap slot: 4
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 4 ClientId: 0
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 4 ClientId: 0
+[Info   :ReservedItemSlotCore] SettingFocusReservedHotbar to: False
+[Info   :ReservedItemSlotCore] Sending hotbar swap slot: 0
+[Info   :ReservedItemSlotCore] Receiving request for hotbar swap. Slot: 0 ClientId: 0
+[Info   :ReservedItemSlotCore] Receiving update for hotbar swap. Slot: 0 ClientId: 0
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/admin/Downloads/Game/Lethal.Company.v45.1_LinkNeverDie.Com/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/admin/Downloads/Game/Lethal.Company.v45.1_LinkNeverDie.Com/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/admin/Downloads/Game/Lethal.Company.v45.1_LinkNeverDie.Com/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Users/admin/Downloads/Game/Lethal.Company.v45.1_LinkNeverDie.Com/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
