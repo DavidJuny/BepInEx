@@ -8,4 +8,4 @@
 ### B5: gõ lệnh "git clone https://github.com/DavidJuny/BepInEx.git" 
 ### B6: Hết. 
 
-### Lưu ý: Nếu như có chỉnh sửa mod gì thì vô thư mục BepInEx, sau đó chuột phải chọn Open in Terminal và gõ lệnh git pull. Xong
+### Lưu ý: Nếu như có chỉnh sửa mod gì thì vô thư mục BepInEx, sau đó chuột phải chọn Open in Terminal và gõ lệnh git pull. Xong, còn không thì làm tương tự từ bước B2 ở trên
